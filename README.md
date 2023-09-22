@@ -3,6 +3,7 @@
 Implementasi sistem pada penelitian ini menggunakan framework Streamlit dan environment pada python.  
  
  ![img](Icon/image_2023-09-22_15-26-33.png) <br>
+ ![image_2023-09-22_15-26-42](https://github.com/Tiara-la/P2PlendingPred.github.io/assets/57089512/e675152d-b63b-46e1-b849-3fd113cdbb6d) <br>
 Gambar 4.19. Tampilan Halaman Home
 
 Gambar 4.19 merupakan halaman Home dari web prediksi risiko gagal bayar pinjaman dimana pengguna dapat melihat informasi tentang web ini. Selain menu Home, pada bagian samping terdapat menu sidebar yang berisi menu Manual Input dan CSV Input. Tampilan menu Manual Input dapat dilihat pada Gambar 4.20.
