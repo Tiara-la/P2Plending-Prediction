@@ -7,8 +7,9 @@ Implementasi sistem pada penelitian ini menggunakan framework Streamlit dan envi
 Gambar 4.19. Tampilan Halaman Home
 
 Gambar 4.19 merupakan halaman Home dari web prediksi risiko gagal bayar pinjaman dimana pengguna dapat melihat informasi tentang web ini. Selain menu Home, pada bagian samping terdapat menu sidebar yang berisi menu Manual Input dan CSV Input. Tampilan menu Manual Input dapat dilihat pada Gambar 4.20.
- 
-Gambar 4.20. Tampilan Menu Manual Input
+
+![image_2023-09-22_15-26-51](https://github.com/Tiara-la/P2PlendingPred.github.io/assets/57089512/b3b64011-c4d7-44fd-b37d-90c3710f3eb4) <br>
+Gambar 4.20. Tampilan Menu Manual Input <br>
 Pada menu Manual Input pengguna dapat melakukan prediksi dengan meng-input data secara manual satu persatu. Ada 3 data yang harus dimasukan sesuai dengan hasil seleksi fitur yang telah dilakukan sebelumnya. Data-data yang perlu pengguna input-kan adalah day past due, principal balance dan principal paid.
 Setelah data dimasukan satu persatu, selanjutnya pengguna bisa menekan button “Predict” untuk mendapat hasil prediksi. Ketika pinjaman masuk kategori default maka akan muncul hasil berupa tulisan “Prediksi pinjaman ini adalah Default”. Namun jika pinjaman masuk kategori non-default makan akan muncul hasil berupa tulisan “Prediksi pinjaman ini adalah Non-Default”. Tampilan hasil prediksi dapat dilihat pada Gambar 4.21.
  
@@ -17,8 +18,9 @@ Setelah data dimasukan satu persatu, selanjutnya pengguna bisa menekan button �
 Gambar 4.21. Tampilan Hasil Prediksi pada Menu Manual Input
 
 Kemudian pada bagian menu CSV Input pengguna dapat melakukan prediksi dengan banyak data sekaligus. Data yang dapat di-input-kan berformat csv. Caranya yaitu dengan meng-upload data yang berformat csv pada bagian Drag and drop file. Tampilan dari menu CSV Input dapat dilihat pada Gambar 4.22.
- 
-Gambar 4.22. Tampilan Menu CSV Input
+
+![image_2023-09-22_15-29-54](https://github.com/Tiara-la/P2PlendingPred.github.io/assets/57089512/af8b7808-b008-4859-9cb7-221768bf72e1) <br>
+Gambar 4.22. Tampilan Menu CSV Input <br>
 Setelah data ter-upload, sistem akan otomatis mambaca file dan akan menampilkan tampilan file yang telah di-upload dan pengguna dapat langsung melakukan prediksi dengan menekan button “Predict”. Tampilan ketika data telah terbaca oleh sistem dapat dilihat pada Gambar 4.23.
  
 Gambar 4.23. Tampilan Ketika Data Telah Terbaca Sistem
