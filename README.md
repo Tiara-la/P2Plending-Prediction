@@ -14,7 +14,7 @@ Pada menu Manual Input pengguna dapat melakukan prediksi dengan meng-input data 
 Setelah data dimasukan satu persatu, selanjutnya pengguna bisa menekan button “Predict” untuk mendapat hasil prediksi. Ketika pinjaman masuk kategori default maka akan muncul hasil berupa tulisan “Prediksi pinjaman ini adalah Default”. Namun jika pinjaman masuk kategori non-default makan akan muncul hasil berupa tulisan “Prediksi pinjaman ini adalah Non-Default”. Tampilan hasil prediksi dapat dilihat pada Gambar 4.21.
  
  
- 
+ ![image_2023-09-22_15-26-51](https://github.com/Tiara-la/P2PlendingPred.github.io/assets/57089512/b3b64011-c4d7-44fd-b37d-90c3710f3eb4) <br>
 Gambar 4.21. Tampilan Hasil Prediksi pada Menu Manual Input
 
 Kemudian pada bagian menu CSV Input pengguna dapat melakukan prediksi dengan banyak data sekaligus. Data yang dapat di-input-kan berformat csv. Caranya yaitu dengan meng-upload data yang berformat csv pada bagian Drag and drop file. Tampilan dari menu CSV Input dapat dilihat pada Gambar 4.22.
